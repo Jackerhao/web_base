@@ -7,6 +7,7 @@ import javax.xml.transform.stream.*;
 import org.w3c.dom.*;
 
 //遍历节点,把所有元素名称打印出来
+//试验
 public class Test_jaxp_06 {
 
 	/**
